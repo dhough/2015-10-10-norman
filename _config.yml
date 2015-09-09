@@ -1,7 +1,7 @@
 #--------------------------------------------------------------------------------
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
-workshop_repo   : "http://github.com/swcarpentry/workshop-template"
+workshop_repo   : "http://github.com/dhough/2015-10-10"
 workshop_site   : "http://swcarpentry.github.io/workshop-template"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
